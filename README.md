@@ -1,4 +1,7 @@
-## Wow, awesome profile
+## Awesome profile !
+``` java
+System.out.println("Hello, world !");
+```
 
 <!--
 **bin-e/bin-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
