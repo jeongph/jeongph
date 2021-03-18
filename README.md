@@ -1,6 +1,6 @@
 ## Awesome profile !
-``` java
-System.out.println("Hello, world !");
+``` kotlin
+println("Hello, world !")
 ```
 
 <!--
